@@ -17,7 +17,7 @@ designPattern/
 - ✅ Singleton
 - ✅ Factory Method
 - ⏳ Abstract Factory
-- ⏳ Builder
+- ✅ Builder
 - ⏳ Prototype
 
 ### Structural
